@@ -1,0 +1,25 @@
+.profile-container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.MyLogo-Img{
+    border-radius: 50%;
+    width: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Facebook-Link{
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+}
+
+.Facebook-Link:hover{
+    color: rgb(161, 161, 161);
+}
+
+.Line-Img{
+    width: 20%;
+}

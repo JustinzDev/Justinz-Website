@@ -1,0 +1,22 @@
+.Working-container{
+    margin: auto;
+}
+
+.Working-container a{
+    color: rgb(24, 24, 24);
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.Working-container a:hover{
+    color: rgb(59, 160, 255);
+}
+
+.Working-container button{
+    border: 1px solid rgba(117, 117, 117, 0.4);
+    border-radius: 20px;
+    padding: 6px 20px;
+    transition: 0.5s;
+    text-decoration: none;
+    color: black;
+}

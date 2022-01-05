@@ -1,0 +1,46 @@
+*{
+  font-family: 'Kanit', sans-serif;
+}
+
+.Logo-Img{
+  border-radius: 50%;
+  width: 20%;
+}
+
+.div-body-social{
+  margin: auto;
+}
+
+.div-body-social a{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.button-github, .button-youtube, .button-facebook{
+  border: 1px solid rgba(117, 117, 117, 0.4);
+  border-radius: 20px;
+  padding: 10px 30px;
+  transition: 0.5s;
+  text-decoration: none;
+  color: black;
+}
+
+.button-github:hover, .button-youtube:hover, .button-facebook:hover{
+  color: rgb(121, 121, 121);
+  padding: 10px 50px;
+}
+
+.typingeffect{
+  font-size: 17px;
+}
+
+.LinkFacebook{
+  text-decoration: none;
+  color: rgb(95, 95, 95);
+  transition: 0.8s;
+  font-size: 15px;
+}
+
+.LinkFacebook:hover{
+  color: rgb(0, 110, 255);
+}
